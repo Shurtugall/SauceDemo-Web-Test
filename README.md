@@ -3,7 +3,7 @@ This is a web test project for study. Use it for study and feel free to give sug
 
 The website used is free to acess, check it out: [Swag Labs](https://www.saucedemo.com/)
 
-This is a Web Automated Test project, the structure follows the PageObject pattern and it is listed below:
+This is a Web Automated Test project, the structure follows the [Page Object](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/) pattern and it is listed below:
 
 ### Structure
 
